@@ -1,0 +1,29 @@
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+src/llms_config.json
+
+# Python and editor state
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+
+# Generated datasets, checkpoints, reports, and model artifacts
+/chats/
+/outputs/
+/results/
+/models/
+*.pickle
+*.partial
+*.tmp
+*.log
+
+# Local Hugging Face and experiment caches
+.cache/
+wandb/

@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "category": "Coding",
+    "title": "Building a Personal Budget Tracker Web App in Python and Flask",
+    "theme": "Creating a basic app to track income and expenses with simple analytics. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Setting up Flask project structure",
+      "Designing HTML/CSS UI",
+      "Connecting SQLite database",
+      "User authentication basics",
+      "CRUD operations for transactions",
+      "Basic charts with Chart.js",
+      "Deploying on free hosting services",
+      "Improving UI/UX for beginners"
+    ],
+    "source_topic_id": 1,
+    "variant": 1
+  },
+  {
+    "id": 2,
+    "category": "Coding",
+    "title": "Developing a Weather Forecast App in JavaScript with OpenWeather API",
+    "theme": "Fetching and displaying weather data for user-specified locations. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Working with APIs in JavaScript",
+      "Handling asynchronous fetch calls",
+      "Rendering results dynamically in HTML",
+      "Displaying temperature, humidity, and conditions",
+      "Adding city autocomplete",
+      "Basic responsive design",
+      "Error handling for invalid locations",
+      "Deploying on GitHub Pages"
+    ],
+    "source_topic_id": 2,
+    "variant": 1
+  },
+  {
+    "id": 3,
+    "category": "Coding",
+    "title": "Building a Portfolio Website with HTML, CSS, and Bootstrap",
+    "theme": "Creating a personal portfolio to showcase skills and projects. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Structuring HTML pages",
+      "Applying Bootstrap components",
+      "Responsive layout design",
+      "Adding project gallery",
+      "Integrating contact forms",
+      "SEO basics for personal websites",
+      "Optimizing images",
+      "Deploying to Netlify or GitHub Pages"
+    ],
+    "source_topic_id": 3,
+    "variant": 1
+  },
+  {
+    "id": 4,
+    "category": "Coding",
+    "title": "Building a Personal Budget Tracker Web App in Python and Flask",
+    "theme": "Creating a basic app to track income and expenses with simple analytics. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Designing HTML/CSS UI",
+      "Connecting SQLite database",
+      "User authentication basics",
+      "CRUD operations for transactions",
+      "Basic charts with Chart.js",
+      "Deploying on free hosting services",
+      "Improving UI/UX for beginners",
+      "Setting up Flask project structure"
+    ],
+    "source_topic_id": 1,
+    "variant": 2
+  },
+  {
+    "id": 5,
+    "category": "Coding",
+    "title": "Developing a Weather Forecast App in JavaScript with OpenWeather API",
+    "theme": "Fetching and displaying weather data for user-specified locations. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Handling asynchronous fetch calls",
+      "Rendering results dynamically in HTML",
+      "Displaying temperature, humidity, and conditions",
+      "Adding city autocomplete",
+      "Basic responsive design",
+      "Error handling for invalid locations",
+      "Deploying on GitHub Pages",
+      "Working with APIs in JavaScript"
+    ],
+    "source_topic_id": 2,
+    "variant": 2
+  },
+  {
+    "id": 6,
+    "category": "Math",
+    "title": "Exploring the Geometry of Triangles",
+    "theme": "Investigating properties, theorems, and problem-solving techniques related to triangles. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Classifying triangles by angles and sides",
+      "Pythagoras’ theorem applications",
+      "Properties of equilateral, isosceles, and scalene triangles",
+      "Area formulas",
+      "Special lines: medians, altitudes, bisectors",
+      "Congruence and similarity",
+      "Using geometry in construction and design",
+      "Geometric puzzles and challenges"
+    ],
+    "source_topic_id": 4,
+    "variant": 1
+  },
+  {
+    "id": 7,
+    "category": "Math",
+    "title": "Understanding the Basics of Probability",
+    "theme": "Calculating simple probabilities and exploring common probability puzzles. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Probability as a ratio",
+      "Independent and dependent events",
+      "Mutually exclusive events",
+      "Basic counting principles",
+      "Simple permutations and combinations",
+      "Coin toss and dice roll problems",
+      "Visualizing probabilities with diagrams",
+      "Common misconceptions about probability"
+    ],
+    "source_topic_id": 5,
+    "variant": 1
+  },
+  {
+    "id": 8,
+    "category": "Math",
+    "title": "Exploring the Geometry of Triangles",
+    "theme": "Investigating properties, theorems, and problem-solving techniques related to triangles. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Pythagoras’ theorem applications",
+      "Properties of equilateral, isosceles, and scalene triangles",
+      "Area formulas",
+      "Special lines: medians, altitudes, bisectors",
+      "Congruence and similarity",
+      "Using geometry in construction and design",
+      "Geometric puzzles and challenges",
+      "Classifying triangles by angles and sides"
+    ],
+    "source_topic_id": 4,
+    "variant": 2
+  },
+  {
+    "id": 9,
+    "category": "Math",
+    "title": "Understanding the Basics of Probability",
+    "theme": "Calculating simple probabilities and exploring common probability puzzles. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Independent and dependent events",
+      "Mutually exclusive events",
+      "Basic counting principles",
+      "Simple permutations and combinations",
+      "Coin toss and dice roll problems",
+      "Visualizing probabilities with diagrams",
+      "Common misconceptions about probability",
+      "Probability as a ratio"
+    ],
+    "source_topic_id": 5,
+    "variant": 2
+  },
+  {
+    "id": 10,
+    "category": "Math",
+    "title": "Exploring the Geometry of Triangles",
+    "theme": "Investigating properties, theorems, and problem-solving techniques related to triangles. Emphasize trade-offs, corrections, and decisions that depend on earlier details.",
+    "subtopics": [
+      "Properties of equilateral, isosceles, and scalene triangles",
+      "Area formulas",
+      "Special lines: medians, altitudes, bisectors",
+      "Congruence and similarity",
+      "Using geometry in construction and design",
+      "Geometric puzzles and challenges",
+      "Classifying triangles by angles and sides",
+      "Pythagoras’ theorem applications"
+    ],
+    "source_topic_id": 4,
+    "variant": 3
+  },
+  {
+    "id": 11,
+    "category": "Writing Assistant & Learning",
+    "title": "Building a Portfolio-Ready Resume that Passes Any Applicant Tracking System",
+    "theme": "Structuring, optimizing, and tailoring resumes for multiple industries and career stages. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "ATS keyword optimization",
+      "Action verb libraries",
+      "Formatting for machine readability",
+      "Industry-specific resume tailoring",
+      "Highlighting transferable skills",
+      "International resume standards",
+      "Quantifying achievements",
+      "Portfolio integration"
+    ],
+    "source_topic_id": 6,
+    "variant": 1
+  },
+  {
+    "id": 12,
+    "category": "Writing Assistant & Learning",
+    "title": "Mastering the Art of Persuasive Academic Essay Writing",
+    "theme": "From research planning to compelling argumentation in essays across disciplines. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Thesis formulation",
+      "Evidence synthesis",
+      "Counterargument integration",
+      "Academic style guides",
+      "Citation management tools",
+      "Critical reading strategies",
+      "Transitions and flow",
+      "Editing for clarity and precision"
+    ],
+    "source_topic_id": 7,
+    "variant": 1
+  },
+  {
+    "id": 13,
+    "category": "Writing Assistant & Learning",
+    "title": "Crafting a Standout Cover Letter for Competitive Job Markets",
+    "theme": "Personalizing, storytelling, and aligning with employer values. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Identifying employer pain points",
+      "Storytelling frameworks",
+      "Tone and voice adaptation",
+      "Highlighting cultural fit",
+      "Impact statements",
+      "Integrating portfolio work",
+      "Formatting variations",
+      "Closing with a call-to-action"
+    ],
+    "source_topic_id": 8,
+    "variant": 1
+  },
+  {
+    "id": 14,
+    "category": "Writing Assistant & Learning",
+    "title": "Designing a Multi-Purpose Personal Statement for Global Opportunities",
+    "theme": "Balancing personal narrative with professional credibility for academic, visa, and grant applications. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Hook writing techniques",
+      "Weaving academic and personal stories",
+      "Addressing gaps and weaknesses",
+      "Cultural context adaptation",
+      "Word count compression",
+      "Impactful conclusions",
+      "Adapting for multiple applications",
+      "Voice consistency"
+    ],
+    "source_topic_id": 9,
+    "variant": 1
+  },
+  {
+    "id": 15,
+    "category": "Writing Assistant & Learning",
+    "title": "Developing a Self-Editing System for Lifelong Writing Improvement",
+    "theme": "Techniques, tools, and mental models for refining writing quality over time. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Grammar and syntax auditing",
+      "Clarity vs. concision trade-offs",
+      "Tone calibration",
+      "Editing checklists",
+      "Peer review systems",
+      "AI-assisted editing workflows",
+      "Version control for drafts",
+      "Tracking personal writing metrics"
+    ],
+    "source_topic_id": 10,
+    "variant": 1
+  },
+  {
+    "id": 16,
+    "category": "Philosophical or Ethical Discussion",
+    "title": "Deciding Whether to Use AI to Automate Hiring in My Company",
+    "theme": "Balancing efficiency with fairness, privacy, and bias concerns in recruitment. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Understanding AI hiring algorithms",
+      "Risks of algorithmic bias and discrimination",
+      "Legal compliance in different regions",
+      "Transparency and explainability requirements",
+      "Impact on diversity and inclusion",
+      "Candidate privacy rights",
+      "Weighing cost savings vs. ethical responsibility",
+      "Alternatives to full automation"
+    ],
+    "source_topic_id": 11,
+    "variant": 1
+  },
+  {
+    "id": 17,
+    "category": "Philosophical or Ethical Discussion",
+    "title": "Considering Whether to Believe in and Live by the Idea of Free Will",
+    "theme": "Weighing philosophical, scientific, and practical consequences of accepting or rejecting free will. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Philosophical definitions of free will",
+      "Determinism and scientific perspectives",
+      "Compatibilism vs. incompatibilism",
+      "Impact on personal responsibility",
+      "Moral and legal implications",
+      "Religious interpretations",
+      "Famous thought experiments",
+      "Effect on motivation and life choices"
+    ],
+    "source_topic_id": 12,
+    "variant": 1
+  },
+  {
+    "id": 18,
+    "category": "Asking Recommendation",
+    "title": "Selecting a Must-Read Fiction Series for Winter Evenings",
+    "theme": "Exploring different genres to find a captivating long-form reading experience. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Popular fantasy, sci-fi, and historical fiction series",
+      "Standalone novels vs. multi-book sagas",
+      "Award-winning authors and emerging voices",
+      "Balancing page count with storytelling depth",
+      "Print vs. e-book vs. audiobook formats",
+      "Reader community reviews and ratings",
+      "Book club discussion potential",
+      "Where to buy or borrow at the best price"
+    ],
+    "source_topic_id": 13,
+    "variant": 1
+  },
+  {
+    "id": 19,
+    "category": "Asking Recommendation",
+    "title": "Finding the Best Streaming Movies for a Family Weekend",
+    "theme": "Balancing entertainment value, age appropriateness, and availability across platforms. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Popular family-friendly genres",
+      "Award-winning films and hidden gems",
+      "Age ratings and content advisories",
+      "Streaming platform exclusives",
+      "Language and subtitle options",
+      "Movie marathon planning",
+      "Pairing snacks and themed activities",
+      "Reviews from critics vs. audiences"
+    ],
+    "source_topic_id": 14,
+    "variant": 1
+  },
+  {
+    "id": 20,
+    "category": "Asking Recommendation",
+    "title": "Choosing Comfortable and Stylish Sneakers for Daily Wear",
+    "theme": "Finding footwear that combines fashion, comfort, and durability. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Popular sneaker brands and their specialties",
+      "Materials for breathability and support",
+      "Trends in sneaker design",
+      "Fit and sizing guides",
+      "Shoes for walking vs. running vs. casual use",
+      "Price ranges and value for money",
+      "Limited editions and collectible sneakers",
+      "Caring for and cleaning sneakers"
+    ],
+    "source_topic_id": 15,
+    "variant": 1
+  },
+  {
+    "id": 21,
+    "category": "Lifestyle",
+    "title": "Personal Finance for Everyday Life",
+    "theme": "Managing money wisely to reduce stress and support your long-term goals. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Creating and maintaining a budget",
+      "Building an emergency fund",
+      "Cutting unnecessary expenses",
+      "Setting short- and long-term financial goals",
+      "Using credit responsibly",
+      "Saving for big purchases",
+      "Basic investing for beginners",
+      "Tracking and adjusting spending habits"
+    ],
+    "source_topic_id": 16,
+    "variant": 1
+  },
+  {
+    "id": 22,
+    "category": "Lifestyle",
+    "title": "Time Management for a Balanced Life",
+    "theme": "Organizing your schedule to achieve goals while protecting personal well-being. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Prioritizing tasks effectively",
+      "Using time-blocking and batching",
+      "Eliminating time-wasting habits",
+      "Balancing work, family, and leisure",
+      "Planning with digital and paper tools",
+      "Avoiding overcommitment",
+      "Setting realistic deadlines",
+      "Building flexibility into your schedule"
+    ],
+    "source_topic_id": 17,
+    "variant": 1
+  },
+  {
+    "id": 23,
+    "category": "Therapy and Emotional Support",
+    "title": "Recovering from Workplace Burnout and Chronic Stress",
+    "theme": "Restoring energy, rediscovering purpose, and preventing future burnout. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Early warning signs of burnout",
+      "Separating job stress from burnout",
+      "Time management and workload boundaries",
+      "Rebuilding motivation",
+      "Mind-body relaxation techniques",
+      "Support systems and mentorship",
+      "Lifestyle adjustments for sustained energy",
+      "Long-term prevention strategies"
+    ],
+    "source_topic_id": 18,
+    "variant": 1
+  },
+  {
+    "id": 24,
+    "category": "Legal and Administrative",
+    "title": "Creating a Legally Valid Will and Estate Plan",
+    "theme": "Protecting assets and ensuring wishes are honored after death. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Identifying assets and beneficiaries",
+      "Choosing an executor",
+      "Understanding probate laws",
+      "Including guardianship provisions for minors",
+      "Minimizing estate taxes",
+      "Updating your will after major life events",
+      "Digital assets and online accounts",
+      "Working with an estate planning attorney"
+    ],
+    "source_topic_id": 19,
+    "variant": 1
+  },
+  {
+    "id": 25,
+    "category": "Legal and Administrative",
+    "title": "Applying for a Patent to Protect a New Invention",
+    "theme": "Navigating the patent process from concept to legal protection. Start from first principles and build a practical plan with explicit constraints.",
+    "subtopics": [
+      "Determining patent eligibility",
+      "Conducting a prior art search",
+      "Preparing detailed descriptions and drawings",
+      "Filing a provisional vs. non-provisional patent",
+      "Responding to examiner feedback",
+      "International patent protection",
+      "Maintaining and enforcing patent rights",
+      "Working with a patent attorney"
+    ],
+    "source_topic_id": 20,
+    "variant": 1
+  },
+  {
+    "id": 26,
+    "category": "Writing Assistant & Learning",
+    "title": "Building a Portfolio-Ready Resume that Passes Any Applicant Tracking System",
+    "theme": "Structuring, optimizing, and tailoring resumes for multiple industries and career stages. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Action verb libraries",
+      "Formatting for machine readability",
+      "Industry-specific resume tailoring",
+      "Highlighting transferable skills",
+      "International resume standards",
+      "Quantifying achievements",
+      "Portfolio integration",
+      "ATS keyword optimization"
+    ],
+    "source_topic_id": 6,
+    "variant": 2
+  },
+  {
+    "id": 27,
+    "category": "Writing Assistant & Learning",
+    "title": "Mastering the Art of Persuasive Academic Essay Writing",
+    "theme": "From research planning to compelling argumentation in essays across disciplines. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Evidence synthesis",
+      "Counterargument integration",
+      "Academic style guides",
+      "Citation management tools",
+      "Critical reading strategies",
+      "Transitions and flow",
+      "Editing for clarity and precision",
+      "Thesis formulation"
+    ],
+    "source_topic_id": 7,
+    "variant": 2
+  },
+  {
+    "id": 28,
+    "category": "Writing Assistant & Learning",
+    "title": "Crafting a Standout Cover Letter for Competitive Job Markets",
+    "theme": "Personalizing, storytelling, and aligning with employer values. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Storytelling frameworks",
+      "Tone and voice adaptation",
+      "Highlighting cultural fit",
+      "Impact statements",
+      "Integrating portfolio work",
+      "Formatting variations",
+      "Closing with a call-to-action",
+      "Identifying employer pain points"
+    ],
+    "source_topic_id": 8,
+    "variant": 2
+  },
+  {
+    "id": 29,
+    "category": "Writing Assistant & Learning",
+    "title": "Designing a Multi-Purpose Personal Statement for Global Opportunities",
+    "theme": "Balancing personal narrative with professional credibility for academic, visa, and grant applications. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Weaving academic and personal stories",
+      "Addressing gaps and weaknesses",
+      "Cultural context adaptation",
+      "Word count compression",
+      "Impactful conclusions",
+      "Adapting for multiple applications",
+      "Voice consistency",
+      "Hook writing techniques"
+    ],
+    "source_topic_id": 9,
+    "variant": 2
+  },
+  {
+    "id": 30,
+    "category": "Writing Assistant & Learning",
+    "title": "Developing a Self-Editing System for Lifelong Writing Improvement",
+    "theme": "Techniques, tools, and mental models for refining writing quality over time. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Clarity vs. concision trade-offs",
+      "Tone calibration",
+      "Editing checklists",
+      "Peer review systems",
+      "AI-assisted editing workflows",
+      "Version control for drafts",
+      "Tracking personal writing metrics",
+      "Grammar and syntax auditing"
+    ],
+    "source_topic_id": 10,
+    "variant": 2
+  },
+  {
+    "id": 31,
+    "category": "Philosophical or Ethical Discussion",
+    "title": "Deciding Whether to Use AI to Automate Hiring in My Company",
+    "theme": "Balancing efficiency with fairness, privacy, and bias concerns in recruitment. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Risks of algorithmic bias and discrimination",
+      "Legal compliance in different regions",
+      "Transparency and explainability requirements",
+      "Impact on diversity and inclusion",
+      "Candidate privacy rights",
+      "Weighing cost savings vs. ethical responsibility",
+      "Alternatives to full automation",
+      "Understanding AI hiring algorithms"
+    ],
+    "source_topic_id": 11,
+    "variant": 2
+  },
+  {
+    "id": 32,
+    "category": "Philosophical or Ethical Discussion",
+    "title": "Considering Whether to Believe in and Live by the Idea of Free Will",
+    "theme": "Weighing philosophical, scientific, and practical consequences of accepting or rejecting free will. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Determinism and scientific perspectives",
+      "Compatibilism vs. incompatibilism",
+      "Impact on personal responsibility",
+      "Moral and legal implications",
+      "Religious interpretations",
+      "Famous thought experiments",
+      "Effect on motivation and life choices",
+      "Philosophical definitions of free will"
+    ],
+    "source_topic_id": 12,
+    "variant": 2
+  },
+  {
+    "id": 33,
+    "category": "Asking Recommendation",
+    "title": "Selecting a Must-Read Fiction Series for Winter Evenings",
+    "theme": "Exploring different genres to find a captivating long-form reading experience. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Standalone novels vs. multi-book sagas",
+      "Award-winning authors and emerging voices",
+      "Balancing page count with storytelling depth",
+      "Print vs. e-book vs. audiobook formats",
+      "Reader community reviews and ratings",
+      "Book club discussion potential",
+      "Where to buy or borrow at the best price",
+      "Popular fantasy, sci-fi, and historical fiction series"
+    ],
+    "source_topic_id": 13,
+    "variant": 2
+  },
+  {
+    "id": 34,
+    "category": "Asking Recommendation",
+    "title": "Finding the Best Streaming Movies for a Family Weekend",
+    "theme": "Balancing entertainment value, age appropriateness, and availability across platforms. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Award-winning films and hidden gems",
+      "Age ratings and content advisories",
+      "Streaming platform exclusives",
+      "Language and subtitle options",
+      "Movie marathon planning",
+      "Pairing snacks and themed activities",
+      "Reviews from critics vs. audiences",
+      "Popular family-friendly genres"
+    ],
+    "source_topic_id": 14,
+    "variant": 2
+  },
+  {
+    "id": 35,
+    "category": "Asking Recommendation",
+    "title": "Choosing Comfortable and Stylish Sneakers for Daily Wear",
+    "theme": "Finding footwear that combines fashion, comfort, and durability. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Materials for breathability and support",
+      "Trends in sneaker design",
+      "Fit and sizing guides",
+      "Shoes for walking vs. running vs. casual use",
+      "Price ranges and value for money",
+      "Limited editions and collectible sneakers",
+      "Caring for and cleaning sneakers",
+      "Popular sneaker brands and their specialties"
+    ],
+    "source_topic_id": 15,
+    "variant": 2
+  },
+  {
+    "id": 36,
+    "category": "Lifestyle",
+    "title": "Personal Finance for Everyday Life",
+    "theme": "Managing money wisely to reduce stress and support your long-term goals. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Building an emergency fund",
+      "Cutting unnecessary expenses",
+      "Setting short- and long-term financial goals",
+      "Using credit responsibly",
+      "Saving for big purchases",
+      "Basic investing for beginners",
+      "Tracking and adjusting spending habits",
+      "Creating and maintaining a budget"
+    ],
+    "source_topic_id": 16,
+    "variant": 2
+  },
+  {
+    "id": 37,
+    "category": "Lifestyle",
+    "title": "Time Management for a Balanced Life",
+    "theme": "Organizing your schedule to achieve goals while protecting personal well-being. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Using time-blocking and batching",
+      "Eliminating time-wasting habits",
+      "Balancing work, family, and leisure",
+      "Planning with digital and paper tools",
+      "Avoiding overcommitment",
+      "Setting realistic deadlines",
+      "Building flexibility into your schedule",
+      "Prioritizing tasks effectively"
+    ],
+    "source_topic_id": 17,
+    "variant": 2
+  },
+  {
+    "id": 38,
+    "category": "Therapy and Emotional Support",
+    "title": "Recovering from Workplace Burnout and Chronic Stress",
+    "theme": "Restoring energy, rediscovering purpose, and preventing future burnout. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Separating job stress from burnout",
+      "Time management and workload boundaries",
+      "Rebuilding motivation",
+      "Mind-body relaxation techniques",
+      "Support systems and mentorship",
+      "Lifestyle adjustments for sustained energy",
+      "Long-term prevention strategies",
+      "Early warning signs of burnout"
+    ],
+    "source_topic_id": 18,
+    "variant": 2
+  },
+  {
+    "id": 39,
+    "category": "Legal and Administrative",
+    "title": "Creating a Legally Valid Will and Estate Plan",
+    "theme": "Protecting assets and ensuring wishes are honored after death. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Choosing an executor",
+      "Understanding probate laws",
+      "Including guardianship provisions for minors",
+      "Minimizing estate taxes",
+      "Updating your will after major life events",
+      "Digital assets and online accounts",
+      "Working with an estate planning attorney",
+      "Identifying assets and beneficiaries"
+    ],
+    "source_topic_id": 19,
+    "variant": 2
+  },
+  {
+    "id": 40,
+    "category": "Legal and Administrative",
+    "title": "Applying for a Patent to Protect a New Invention",
+    "theme": "Navigating the patent process from concept to legal protection. Revisit the topic over several sessions as the user's circumstances and priorities evolve.",
+    "subtopics": [
+      "Conducting a prior art search",
+      "Preparing detailed descriptions and drawings",
+      "Filing a provisional vs. non-provisional patent",
+      "Responding to examiner feedback",
+      "International patent protection",
+      "Maintaining and enforcing patent rights",
+      "Working with a patent attorney",
+      "Determining patent eligibility"
+    ],
+    "source_topic_id": 20,
+    "variant": 2
+  },
+  {
+    "id": 41,
+    "category": "Writing Assistant & Learning",
+    "title": "Building a Portfolio-Ready Resume that Passes Any Applicant Tracking System",
+    "theme": "Structuring, optimizing, and tailoring resumes for multiple industries and career stages. Emphasize trade-offs, corrections, and decisions that depend on earlier details.",
+    "subtopics": [
+      "Formatting for machine readability",
+      "Industry-specific resume tailoring",
+      "Highlighting transferable skills",
+      "International resume standards",
+      "Quantifying achievements",
+      "Portfolio integration",
+      "ATS keyword optimization",
+      "Action verb libraries"
+    ],
+    "source_topic_id": 6,
+    "variant": 3
+  },
+  {
+    "id": 42,
+    "category": "Writing Assistant & Learning",
+    "title": "Mastering the Art of Persuasive Academic Essay Writing",
+    "theme": "From research planning to compelling argumentation in essays across disciplines. Emphasize trade-offs, corrections, and decisions that depend on earlier details.",
+    "subtopics": [
+      "Counterargument integration",
+      "Academic style guides",
+      "Citation management tools",
+      "Critical reading strategies",
+      "Transitions and flow",
+      "Editing for clarity and precision",
+      "Thesis formulation",
+      "Evidence synthesis"
+    ],
+    "source_topic_id": 7,
+    "variant": 3
+  },
+  {
+    "id": 43,
+    "category": "Writing Assistant & Learning",
+    "title": "Crafting a Standout Cover Letter for Competitive Job Markets",
+    "theme": "Personalizing, storytelling, and aligning with employer values. Emphasize trade-offs, corrections, and decisions that depend on earlier details.",
+    "subtopics": [
+      "Tone and voice adaptation",
+      "Highlighting cultural fit",
+      "Impact statements",
+      "Integrating portfolio work",
+      "Formatting variations",
+      "Closing with a call-to-action",
+      "Identifying employer pain points",
+      "Storytelling frameworks"
+    ],
+    "source_topic_id": 8,
+    "variant": 3
+  },
+  {
+    "id": 44,
+    "category": "Writing Assistant & Learning",
+    "title": "Designing a Multi-Purpose Personal Statement for Global Opportunities",
+    "theme": "Balancing personal narrative with professional credibility for academic, visa, and grant applications. Emphasize trade-offs, corrections, and decisions that depend on earlier details.",
+    "subtopics": [
+      "Addressing gaps and weaknesses",
+      "Cultural context adaptation",
+      "Word count compression",
+      "Impactful conclusions",
+      "Adapting for multiple applications",
+      "Voice consistency",
+      "Hook writing techniques",
+      "Weaving academic and personal stories"
+    ],
+    "source_topic_id": 9,
+    "variant": 3
+  },
+  {
+    "id": 45,
+    "category": "Writing Assistant & Learning",
+    "title": "Developing a Self-Editing System for Lifelong Writing Improvement",
+    "theme": "Techniques, tools, and mental models for refining writing quality over time. Emphasize trade-offs, corrections, and decisions that depend on earlier details.",
+    "subtopics": [
+      "Tone calibration",
+      "Editing checklists",
+      "Peer review systems",
+      "AI-assisted editing workflows",
+      "Version control for drafts",
+      "Tracking personal writing metrics",
+      "Grammar and syntax auditing",
+      "Clarity vs. concision trade-offs"
+    ],
+    "source_topic_id": 10,
+    "variant": 3
+  },
+  {
+    "id": 46,
+    "category": "Philosophical or Ethical Discussion",
+    "title": "Deciding Whether to Use AI to Automate Hiring in My Company",
+    "theme": "Balancing efficiency with fairness, privacy, and bias concerns in recruitment. Emphasize trade-offs, corrections, and decisions that depend on earlier details.",
+    "subtopics": [
+      "Legal compliance in different regions",
+      "Transparency and explainability requirements",
+      "Impact on diversity and inclusion",
+      "Candidate privacy rights",
+      "Weighing cost savings vs. ethical responsibility",
+      "Alternatives to full automation",
+      "Understanding AI hiring algorithms",
+      "Risks of algorithmic bias and discrimination"
+    ],
+    "source_topic_id": 11,
+    "variant": 3
+  },
+  {
+    "id": 47,
+    "category": "Philosophical or Ethical Discussion",
+    "title": "Considering Whether to Believe in and Live by the Idea of Free Will",
+    "theme": "Weighing philosophical, scientific, and practical consequences of accepting or rejecting free will. Emphasize trade-offs, corrections, and decisions that depend on earlier details.",
+    "subtopics": [
+      "Compatibilism vs. incompatibilism",
+      "Impact on personal responsibility",
+      "Moral and legal implications",
+      "Religious interpretations",
+      "Famous thought experiments",
+      "Effect on motivation and life choices",
+      "Philosophical definitions of free will",
+      "Determinism and scientific perspectives"
+    ],
+    "source_topic_id": 12,
+    "variant": 3
+  },
+  {
+    "id": 48,
+    "category": "Asking Recommendation",
+    "title": "Selecting a Must-Read Fiction Series for Winter Evenings",
+    "theme": "Exploring different genres to find a captivating long-form reading experience. Emphasize trade-offs, corrections, and decisions that depend on earlier details.",
+    "subtopics": [
+      "Award-winning authors and emerging voices",
+      "Balancing page count with storytelling depth",
+      "Print vs. e-book vs. audiobook formats",
+      "Reader community reviews and ratings",
+      "Book club discussion potential",
+      "Where to buy or borrow at the best price",
+      "Popular fantasy, sci-fi, and historical fiction series",
+      "Standalone novels vs. multi-book sagas"
+    ],
+    "source_topic_id": 13,
+    "variant": 3
+  },
+  {
+    "id": 49,
+    "category": "Asking Recommendation",
+    "title": "Finding the Best Streaming Movies for a Family Weekend",
+    "theme": "Balancing entertainment value, age appropriateness, and availability across platforms. Emphasize trade-offs, corrections, and decisions that depend on earlier details.",
+    "subtopics": [
+      "Age ratings and content advisories",
+      "Streaming platform exclusives",
+      "Language and subtitle options",
+      "Movie marathon planning",
+      "Pairing snacks and themed activities",
+      "Reviews from critics vs. audiences",
+      "Popular family-friendly genres",
+      "Award-winning films and hidden gems"
+    ],
+    "source_topic_id": 14,
+    "variant": 3
+  },
+  {
+    "id": 50,
+    "category": "Asking Recommendation",
+    "title": "Choosing Comfortable and Stylish Sneakers for Daily Wear",
+    "theme": "Finding footwear that combines fashion, comfort, and durability. Emphasize trade-offs, corrections, and decisions that depend on earlier details.",
+    "subtopics": [
+      "Trends in sneaker design",
+      "Fit and sizing guides",
+      "Shoes for walking vs. running vs. casual use",
+      "Price ranges and value for money",
+      "Limited editions and collectible sneakers",
+      "Caring for and cleaning sneakers",
+      "Popular sneaker brands and their specialties",
+      "Materials for breathability and support"
+    ],
+    "source_topic_id": 15,
+    "variant": 3
+  }
+]
